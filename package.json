@@ -1,0 +1,27 @@
+{
+  "name": "canvaslimits",
+  "version": "1.0.0",
+  "description": "Example repo to test canvas limitations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohankohli07/canvasLimits.git"
+  },
+  "keywords": [
+    "html",
+    "canvas"
+  ],
+  "author": "rohankohli07@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohankohli07/canvasLimits/issues"
+  },
+  "homepage": "https://github.com/rohankohli07/canvasLimits#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}

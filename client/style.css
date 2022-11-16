@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#render-count {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  background-color: white;
+  min-width: 128px;
+  padding: 2px;
+  min-height: 20px;
+  border: 1px solid #aaaaaa;
+  border-radius: 8px;
+}
+
+#container {
+  background-color: rgb(225, 225, 225);
+  overflow: auto;
+  /* width: clamp(600px, 80vw, 80vh);
+  height: clamp(600px, 80vh, 80vw);; */
+}

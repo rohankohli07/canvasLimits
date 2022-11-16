@@ -17,5 +17,5 @@ Server running at http://localhost:8000/
 
 Then open localhost:8000 on you browser to see a table rendered in a canvas element, along with a floating div which show the time taken to repaint the canvas. 
 
-#Bug
+# Bugs
 There's a bug in the canvas paint algorithm that the first 25 rows are outside the bounds of the canvas, I didn't solve that bug as I'm not too familiar with drawing tables in canvas elements

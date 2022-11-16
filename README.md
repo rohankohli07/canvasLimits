@@ -2,8 +2,8 @@
 Example repo to test canvas limitations
 
 # Installation
-This application was made to run on node 16, update to the latest version if you have trouble running it in lower versions
-To install run:
+This application was made to run on node 16, update to the latest version if you have trouble running it in lower versions.
+To install, run:
 ```
 npm i
 ```
